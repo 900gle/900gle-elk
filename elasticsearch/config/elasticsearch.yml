@@ -8,5 +8,8 @@ network.host: 0.0.0.0
 ## X-Pack settings
 ## see https://www.elastic.co/guide/en/elasticsearch/reference/current/security-settings.html
 #
+
+#basic or trial [basic,standard,gold,platinum,enterprise,trial]
+
 xpack.license.self_generated.type: basic
 xpack.security.enabled: true
